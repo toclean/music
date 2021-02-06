@@ -1,0 +1,17 @@
+.menu-bar {
+	display: flex;
+	margin: 10px;
+}
+
+.menu-bar-logo {
+	
+}
+
+.menu-bar-options {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.menu-option {
+	/* flex: 1; */
+}
